@@ -1,0 +1,1 @@
+java -jar generative-jazz-solos-1.0.0.jar
