@@ -14,7 +14,7 @@ Contents:
 
 Instructions:
 
-1. Download all the file to the same folder.
+1. Download all the files to the same folder
 2. Double click the run.bat
 3. Choose a style
 4. Choose a BPM tempo
